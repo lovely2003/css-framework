@@ -6,4 +6,4 @@ A custom CSS framework built with Sass, providing a cohesive theme for standard 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-css-framework.git
+   git clone https://github.com/lovely2003/css-framework
